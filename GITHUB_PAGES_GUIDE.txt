@@ -1,0 +1,21 @@
+GITHUB PAGES - AYAM GEPREK JUARA
+
+1. Buka github.com dan login.
+2. Buat repository baru, contoh: ayam-geprek-juara
+3. Pilih Public.
+4. Upload SEMUA file dari paket ini.
+5. Pastikan index.html berada di halaman utama repository (bukan di dalam folder lain).
+6. Buka Settings -> Pages.
+7. Source: Deploy from a branch.
+8. Branch: main dan folder: / (root).
+9. Klik Save.
+10. Tunggu beberapa saat. Link akan berbentuk:
+   https://USERNAME.github.io/ayam-geprek-juara/
+
+EDIT:
+- Nama, menu, harga, teks, dan nomor WhatsApp: index.html
+- Warna/tampilan: style.css
+- Animasi/menu mobile: script.js
+
+Catatan:
+Foto demo menggunakan URL online, jadi foto akan tampil ketika perangkat terhubung ke internet.
